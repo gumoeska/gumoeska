@@ -1,5 +1,12 @@
+<!-- Old -->
+<!--
 <a href="https://gumoeska.com">
     <img src="https://github.com/user-attachments/assets/502dc1af-7253-47e1-b280-2a2df6770204">
+</a>
+ -->
+ 
+<a href="https://gumoeska.com">
+    <img src="https://github.com/user-attachments/assets/278d5d5c-1df5-4868-aa8c-81d1222149fe">
 </a>
 
 <br><br>

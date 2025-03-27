@@ -53,18 +53,9 @@
 
 <p align="center">
     <a>
-        <img height="150" src="https://github-readme-stats.vercel.app/api?username=gumoeska&theme=tokyonight&show_icons=true/460/300">
-    </a>
-    <a>
         <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=gumoeska&show_icons=true&locale=en&layout=compact&theme=tokyonight">
     </a>
 </p>
-<p align="center">
-    <a>
-        <img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=gumoeska&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69">
-    </a>
-</p>
-
 
 ## 📞<b>Contact</b>
 
